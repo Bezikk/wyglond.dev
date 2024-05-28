@@ -118,7 +118,7 @@ if true then
     do
         --// Home
 
-        Home:CreateLabel("Premium Version")
+        Home:CreateLabel("Free Version")
         Home:CreateLabel("Version: ".. Version)
     end
 
