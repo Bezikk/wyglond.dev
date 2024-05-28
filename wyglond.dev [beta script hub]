@@ -1,4 +1,4 @@
 if game.PlaceId == 17350056371 then
-	local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Bezikk/wyglond.dev/scripts/wyglond.dev"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bezikk/wyglond.dev/scripts/wyglond.dev"))()
 elseif game.PlaceId == 286090429 then
-	local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Bezikk/wyglond.dev/scripts/arsenal"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bezikk/wyglond.dev/scripts/arsenal"))()
