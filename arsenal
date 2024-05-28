@@ -35,7 +35,7 @@ SAText.BorderColor3 = Color3.fromRGB(170, 0, 0)
 SAText.BorderSizePixel = 0
 SAText.Size = UDim2.new(0, 360, 0, 44)
 SAText.Font = Enum.Font.Bangers
-SAText.Text = "Arsenal SA Made By .bluuu."
+SAText.Text = "Arsenal Silent Aim made by Bezik"
 SAText.TextColor3 = Color3.fromRGB(170, 0, 0)
 SAText.TextSize = 35.000
 
