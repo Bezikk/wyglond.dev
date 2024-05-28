@@ -90,7 +90,7 @@ local World = Window:CreateTab("World", 4483362458) -- Title, Image
 
 --// Version
 
-local Version = "1.0"
+local Version = "2.0"
 
 --// Game
 
